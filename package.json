@@ -1,6 +1,7 @@
 {
   "name": "fe-react-data-visualisation",
-  "private": true,
+  "homepage": "https://rionagrace.github.io/pokemon-finder/",
+  "private": false,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
