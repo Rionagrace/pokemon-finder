@@ -10,4 +10,4 @@ Search for a pokemon:
 ![image](https://github.com/user-attachments/assets/866a6937-62d8-43fc-a7f8-148ec3339c27)
 
 Search by generation:
-<img width="1430" alt="Screenshot 2024-11-06 at 15 19 24" src="https://github.com/user-attachments/assets/142e1b20-f1e7-4a9d-b4df-b936413e6389">
+<img width="1440" alt="Screenshot 2024-11-06 at 15 22 08" src="https://github.com/user-attachments/assets/ecaedac0-7d00-49a4-b175-3bb6345258e4">
