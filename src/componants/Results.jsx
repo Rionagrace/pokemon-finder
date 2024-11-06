@@ -3,7 +3,7 @@ import Button from "react-bootstrap/Button";
 import Card from "react-bootstrap/Card";
 import Nav from "react-bootstrap/Nav";
 import "bootstrap/dist/css/bootstrap.css";
-import { getPokemonByGeneration } from "../api";
+import { getPokemonByGeneration } from "../api.js";
 
 function Results(props) {
 	const { newPokemon } = props;
