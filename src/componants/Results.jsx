@@ -12,7 +12,8 @@ function Results(props) {
 	const [loaded, setLoaded] = useState(false);
 
 	useEffect(() => {
-		fetch(`https://pokeapi.co/api/v2/pokemon/${newPokemon}`)
+		const searchPokemon = newPokemon.toLowerCase()
+		fetch(`https://pokeapi.co/api/v2/pokemon/${searchPokemon}`)
 			.then((response) => {
 				return response.json();
 			})
